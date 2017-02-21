@@ -6,4 +6,4 @@ git status
 git log
 git push
 git pull 
-aloha
+gitk
