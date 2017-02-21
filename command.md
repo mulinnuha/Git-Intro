@@ -19,3 +19,9 @@ git push origin schedule    : push to origin (github), in branch "schedule"
 
 sync original repository and forked repository
 git remote show
+git remote show origin
+git remote add upstream https://github.com/mulinnuha/gittutorial.git    : add new remote "upstream" with latest version
+git pull upstream master    : pull from upstream/master 
+git merge upstream/master
+git merge mybranch          : merging pull request
+git push origin master      : 
