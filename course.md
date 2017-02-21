@@ -1,1 +1,3 @@
-#course material
+# course material
+
+Editing the course material
