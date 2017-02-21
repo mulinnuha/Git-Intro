@@ -13,4 +13,9 @@ git commit -am "message     : add changed file and commit
 
 git branch
 git checkout -b mybranch
-git branch
+git push origin schedule    : push to origin (github), in branch "schedule"
+(origin)                    : origin (default) repository, can be multiple repository other than github
+
+
+sync original repository and forked repository
+git remote show
