@@ -4,6 +4,8 @@
 - [Git Tutorial - Try Git](https://try.github.com/)
 - [Setup Git](https://help.github.com/articles/set-up-git/)
 - [Learn Git Branching](http://learngitbranching.js.org/)
+- [Git Basic Tagging](https://git-scm.com/book/en/v2/Git-Basics-Tagging)
+- [Release Your Software](https://github.com/blog/1547-release-your-software)
 
 ## Interesting Articles
 - [Comparing Workflows in Git](https://www.atlassian.com/git/tutorials/comparing-workflows)
